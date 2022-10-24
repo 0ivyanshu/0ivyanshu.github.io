@@ -1,1 +1,61 @@
+body {
+    margin: 20px;
+    background-image: url("https://source.unsplash.com/random/?abstract,dark");
+    background-color: #000000;
+}
 
+header {
+    border:
+}
+
+.header {
+    word-spacing: 30px;
+    text-align: right;
+}
+
+li {
+
+    font-family: arial;
+    display: inline-block;
+    color: white;
+    text-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+li:hover {
+    text-decoration: underline 2px;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 4rem;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 10px black;
+}
+
+p {
+    margin-left: 80px;
+    font-family: arial;
+  line-height: 1.5;
+    color: white;
+    text-align: left;
+    text-transform: capitalize;
+    text-shadow: 4px 4px 10px black;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left width: 100%;
+    font-size: 0.75rem;
+    color: grey;
+    text-align: left;
+}
+
+.skills {
+    word-spacing: 9px;
+    text-align: center;
+    font-size: 1.2rem
+}
